@@ -34,4 +34,4 @@ File Directory:
   - GenerateDataUtils.java
 
 # Erratum
-This note aims to correct an error in Table 1. In the final version of this article published, in Table 1, .the Param *k* of Group 1 and Group 2 were erroneously written as 120. The correct *k* is 100. The other elements of the table remain the same.
+This note aims to correct an error in Table 1. In the final version of this article published, in Table 1, the parameter *k* of Group 1 and Group 2 were erroneously written as 120. The correct *k* is 100. The other elements of the table remain the same.
