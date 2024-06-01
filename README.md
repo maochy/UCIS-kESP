@@ -4,7 +4,7 @@ Chengying Mao and Haiquan Hu, "Large-scale *k* Edge Server Placement Based on Us
 
 This is the source code and results of UCIS-*k*ESP algorithm.
 
-Dataset Source (EUA Datasets): <https://github.com/swinedge/eua-dataset>
+Dataset Source (EUA Datasets): <https://github.com/PhuLai/eua-dataset>
 
 File Directory:
 
